@@ -2,3 +2,8 @@
 target/
 lib/
 lib
+/.settings/org.eclipse.jdt.core.prefs
+/.vscode/eclipse-java-google-style.xml
+/.vscode/java-formatter.xml
+/.vscode/settings.json
+/pom.xml
